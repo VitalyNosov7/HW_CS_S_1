@@ -1,0 +1,14 @@
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_1_2\FamilyTree\bin\Debug\net7.0\FamilyTree.exe
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_1_2\FamilyTree\bin\Debug\net7.0\FamilyTree.deps.json
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_1_2\FamilyTree\bin\Debug\net7.0\FamilyTree.runtimeconfig.json
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_1_2\FamilyTree\bin\Debug\net7.0\FamilyTree.dll
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_1_2\FamilyTree\bin\Debug\net7.0\FamilyTree.pdb
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_1_2\FamilyTree\obj\Debug\net7.0\FamilyTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_1_2\FamilyTree\obj\Debug\net7.0\FamilyTree.AssemblyInfoInputs.cache
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_1_2\FamilyTree\obj\Debug\net7.0\FamilyTree.AssemblyInfo.cs
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_1_2\FamilyTree\obj\Debug\net7.0\FamilyTree.csproj.CoreCompileInputs.cache
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_1_2\FamilyTree\obj\Debug\net7.0\FamilyTree.dll
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_1_2\FamilyTree\obj\Debug\net7.0\refint\FamilyTree.dll
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_1_2\FamilyTree\obj\Debug\net7.0\FamilyTree.pdb
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_1_2\FamilyTree\obj\Debug\net7.0\FamilyTree.genruntimeconfig.cache
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_1_2\FamilyTree\obj\Debug\net7.0\ref\FamilyTree.dll
